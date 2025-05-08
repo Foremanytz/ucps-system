@@ -21,5 +21,5 @@ The Universal Celestial Positioning System (UCPS) is a planned system designed t
 - Concept : Tsung-Hsiu Yu
 - Google Plus Code
 - NASA/JPL
-- Concept refinement by Claude AI
+- Concept refinement by Claude AI: https://claude.ai/public/artifacts/f8b7847d-e945-44ad-9375-6ed686dd3f65
 - Structured by GitHub Copilot Workspace
