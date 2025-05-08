@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UCPS Coordinate Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Universal Celestial Positioning System (UCPS)</h1>
+    <form id="ucps-form">
+        <label for="celestial-body-number">Celestial Body Number:</label>
+        <input type="text" id="celestial-body-number" name="celestial-body-number" required>
+        <label for="latitude">Latitude:</label>
+        <input type="text" id="latitude" name="latitude" required>
+        <label for="longitude">Longitude:</label>
+        <input type="text" id="longitude" name="longitude" required>
+        <button type="submit">Generate UCPS Coordinates</button>
+    </form>
+    <section id="result">
+        <h2>UCPS Coordinates</h2>
+        <p id="ucps-coordinates"></p>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
